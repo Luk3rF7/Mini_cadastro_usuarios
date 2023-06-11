@@ -1,0 +1,19 @@
+aside.logo {
+    display:flex;
+    background-color:black;
+    justify-content: center;
+    cursor: pointer;
+}
+
+aside.logo img {
+    padding: 0px 0px;
+    height: 85px; 
+    width: 150px;
+    
+}
+
+@media(max-width: 576px){
+    aside.logo img{
+        width:100px;
+    }
+}
