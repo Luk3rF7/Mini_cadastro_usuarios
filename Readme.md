@@ -18,7 +18,7 @@ Projeto feito no curso Webmodern onde Cria sistema básico de Cadastro de usuár
     - Update
     - Delete
 
-## Curso & Framaworks utilizado
+## Curso & Frameworks utilizado
 
 
 <div>
