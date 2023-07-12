@@ -2,7 +2,7 @@
 
 Projeto feito no curso Webmodern onde Cria sistema básico de Cadastro de usuário onde vamos ter
 
-##Tecnologia utilizada:
+<h2>Tecnologia utilizada: </h2>
 
 <div>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
